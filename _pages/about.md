@@ -6,26 +6,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
+My name is Fangzhou Ye. I am currently a second-year PhD student at the University of Central Florida, under the supervision of Dr. Hao Zheng. Prior to my doctoral studies, I earned my Bachelor's degree in Electronic Science and Technology from Zhejiang University, Hangzhou, China.
 
-My name is Jingzhou Ye. I am currently a second-year PhD student at the University of Central Florida, under the supervision of Dr. Xueqiang Wang. Prior to my doctoral studies, I earned my Bachelor’s degree in Network Engineering from the University of Electronic Science and Technology of China.
-
-My current research interests include Software Supply Chain Security and Privacy.
+My current research interests include Computer Architecture, Machine Learning, and hardware/software co-design for AI/ML.
 
 
 
 
 ## Education
-- **08/2023 – Now**: Ph.D. in Computer Science, Cyber Security and Privacy Cluster, University of Central Florida  
-  Advisor: Dr. Xueqiang Wang
-- **09/2019 – 07/2023**: Bachelor's in Network Engineering, University of Electronic Science and Technology of China
+- **08/2023 – Now**: Ph.D. in Computer Engineering, Intelligent Computer Architecture and Technology Laboratory (iCAT), University of Central Florida, Orlando, Florida, USA. 
+  Thesis Advisor: Dr. Hao Zheng
+- **09/2019 – 07/2023**: Bachelor's in Electronic Science and Technology from Zhejiang University, Hangzhou, Zhejiang, China.
+
 
 ## Teaching Experience
-- **01/2024 – 05/2024**: CDA3103 – Computer Logic and Organization, University of Central Florida
+- **08/2024 – 12/2024**: EGN 3211 Eng Analysis & Computation, University of Central Florida
+- **08/2024 – 12/2024**: EEL 3552 Signal Analysis &Analog Communication, University of Central Florida
+
 
 ## Publications
-- Zhaojie Hu*, **Jingzhou Ye***, Yifan Zhang, and Xueqiang Wang. "Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators." In *Proceedings of the 2024 IEEE 9th European Symposium on Security and Privacy (EuroS&P)*, Vienna, Austria, July 8-12, 2024. (Co-first Authors)
-- Tao Jing, Yao Li, **Jingzhou Ye**, Jie Wang, and Xueqiang Wang. "Privacy Law Enforcement Under Centralized Governance: A Qualitative Analysis of Four Years’ Special Privacy Rectification Campaigns." In *Proceedings of the 34th USENIX Security Symposium (USENIX Security '25)*.
-- **Jingzhou Ye**, Xueqiang Wang, Yao Li, and Wenting Zou. "From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns." Under submission to *CHI 2025*.
+- **Fangzhou Ye***, Lingxiang Yin*, Amir Ghazizadeh Ahsaei and Hao Zheng. “EGMA: Enhancing Data Reuse and Workload Balancing in Message Passing GNN Acceleration via Gram Matrix Optimization”, In *Proceedings of the 61th Design Automation Conference (DAC) (Top-tier Conference)*, San Francisco, CA, June 23-27, 2024.
 
 ## Service
-- External Reviewer, *ACM CCS 2024*
+- External Assistant Reviewer, *DAC 2024*
+- External Assistant Reviewer, *IPDPS 2024*
+- External Assistant Reviewer, *ICCAD 2024*
