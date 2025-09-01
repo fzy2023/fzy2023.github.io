@@ -6,9 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Fangzhou Ye. I am currently a second-year PhD student at the University of Central Florida, under the supervision of Dr. Hao Zheng. Prior to my doctoral studies, I earned my Bachelor's degree in Electronic Science and Technology from Zhejiang University, Hangzhou, China.
+My name is Fangzhou Ye. I am currently a third-year PhD student in the Department of Computer Science at the University of Central Florida, working under the supervision of Dr. Hao Zheng. 
 
-My current research interests include Computer Architecture, Machine Learning, and hardware/software co-design for AI/ML.
+My current research interests include Computer Architecture, Machine Learning, hardware/software co-design for AI/ML, and efficient AI. Specifically, I am interested in optimizing computation and memory efficiency in modern AI systems, leveraging both algorithmic and architectural innovations to enhance performance. Beyond my academic pursuits, I am passionate about exploring innovative solutions that bridge the gap between theoretical advancements and practical implementations in AI acceleration and high-performance computing.
+
+Prior to my doctoral studies, I earned my Bachelor's degree in Electronic Science and Technology from Zhejiang University in Hangzhou, China.
 
 
 
@@ -22,12 +24,14 @@ My current research interests include Computer Architecture, Machine Learning, a
 ## Teaching Experience
 - **08/2024 – 12/2024**: EGN 3211 Eng Analysis & Computation, University of Central Florida
 - **08/2024 – 12/2024**: EEL 3552 Signal Analysis &Analog Communication, University of Central Florida
+- **01/2025 - 05/2025**: EGN 3211 Eng Analysis & Computation, University of Central Florida
+- **01/2025 - 05/2025**: EEE 3342 Digital Design, University of Central Florida
 
 
 ## Publications
 - **Fangzhou Ye***, Lingxiang Yin*, Amir Ghazizadeh Ahsaei and Hao Zheng. “EGMA: Enhancing Data Reuse and Workload Balancing in Message Passing GNN Acceleration via Gram Matrix Optimization”, In *Proceedings of the 61th Design Automation Conference (DAC) (Top-tier Conference)*, San Francisco, CA, June 23-27, 2024.
+- Amir Ghazizadeh Ahsaei, Lingxiang Yin, Shilin Tian, Fangzhou Ye, Fan Yao, Hao Zheng “Rethinking Tiling and Dataflow for SpMM Acceleration: A Graph Transformation Framework”, In Proceedings of IEEE/ACM International Symposium on Microarchitecture (MICRO), Seoul, South Korea, October 2025.
 
 ## Service
-- External Assistant Reviewer, *DAC 2024*
-- External Assistant Reviewer, *IPDPS 2024*
-- External Assistant Reviewer, *ICCAD 2024*
+- Conference Reviewer, *DAC 2024*, *IPDPS 2024*, *ICCAD 2024*, *ISPASS 2025*, *DAC 2025*
+- Journal Reviewer, *TSUSC 2024*
