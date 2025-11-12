@@ -29,9 +29,9 @@ Prior to my doctoral studies, I earned my Bachelor's degree in Electronic Scienc
 
 
 ## Publications
-- **Fangzhou Ye***, Lingxiang Yin*, Amir Ghazizadeh Ahsaei and Hao Zheng. “EGMA: Enhancing Data Reuse and Workload Balancing in Message Passing GNN Acceleration via Gram Matrix Optimization”, In *Proceedings of the 61th Design Automation Conference (DAC) (Top-tier Conference)*, San Francisco, CA, June 23-27, 2024.
+- **Fangzhou Ye**, Lingxiang Yin, Amir Ghazizadeh Ahsaei and Hao Zheng. “EGMA: Enhancing Data Reuse and Workload Balancing in Message Passing GNN Acceleration via Gram Matrix Optimization”, In *Proceedings of the 61th Design Automation Conference (DAC) (Top-tier Conference)*, San Francisco, CA, June 23-27, 2024.
 - Amir Ghazizadeh Ahsaei, Lingxiang Yin, Shilin Tian, **Fangzhou Ye**, Fan Yao, Hao Zheng “Rethinking Tiling and Dataflow for SpMM Acceleration: A Graph Transformation Framework”, In *Proceedings of IEEE/ACM International Symposium on Microarchitecture (MICRO) (Top-tier Conference)*, Seoul, South Korea, October 18-22, 2025.
-- **Fangzhou Ye***, Lingxiang Yin, and Hao Zheng, “Scaling Graph Neural Network Training via Geometric Optimization”, in *Proceedings of IEEE International Symposium on High-Performance Computer Architecture (HPCA) (Top-tier Conference)*, Sydney, Australia, January 31-February 4 2026.
+- **Fangzhou Ye**, Lingxiang Yin, and Hao Zheng, “Scaling Graph Neural Network Training via Geometric Optimization”, in *Proceedings of IEEE International Symposium on High-Performance Computer Architecture (HPCA) (Top-tier Conference)*, Sydney, Australia, January 31-February 4 2026.
 
 ## Patents
 - Shi Binpu, **Ye Fangzhou**, Liu Shengli, Chen Haoyang, Yu Guanding, "A distributed communication and method", China National Intellectual Property Administration (CNIPA), 2022.
