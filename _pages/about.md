@@ -42,5 +42,5 @@ Prior to my doctoral studies, I earned my Bachelor's degree in Electronic Scienc
 - Micro Student Presentation Grant, MICRO, 2025
 
 ## Service
-- Conference Reviewer, *DAC 2024*, *IPDPS 2024*, *ICCAD 2024*, *ISPASS 2025*, *DAC 2025*
+- Conference Reviewer, *DAC 2024*, *IPDPS 2024*, *ICCAD 2024*, *ISPASS 2025*, *DAC 2025*, *MLSys 2026*
 - Journal Reviewer, *IEEE Transactions on Sustainable Computing (TSUSC)*; *IEEE Transactions on Computers (TC)*
