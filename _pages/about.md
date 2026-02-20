@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Fangzhou Ye. I am currently a third-year PhD student in the Department of Computer Science at the University of Central Florida, working under the supervision of Dr. Hao Zheng. 
+My name is **Fangzhou Ye**. I am currently a third-year PhD student in the Department of Computer Science at the **University of Central Florida**, working under the supervision of **[Dr. Hao Zheng](http://haozheng.us/)**.
 
 My current research interests include Computer Architecture, Machine Learning, hardware/software co-design for AI/ML, and efficient AI. Specifically, I am interested in optimizing computation and memory efficiency in modern AI systems, leveraging both algorithmic and architectural innovations to enhance performance. Beyond my academic pursuits, I am passionate about exploring innovative solutions that bridge the gap between theoretical advancements and practical implementations in AI acceleration and high-performance computing.
 
