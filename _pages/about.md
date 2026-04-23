@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is **Fangzhou Ye**. I am currently a third-year PhD student in the Department of Computer Science at the **University of Central Florida**, working under the supervision of **[Dr. Hao Zheng](http://haozheng.us/)**.
+My name is **Fangzhou Ye**. I am currently a third-year PhD student in the Department of Electrical and Computer Engineering at the **University of Central Florida**, working under the supervision of **[Dr. Hao Zheng](http://haozheng.us/)**.
 
 My current research interests include Computer Architecture, Machine Learning, hardware/software co-design for AI/ML, and efficient AI. Specifically, I am interested in optimizing computation and memory efficiency in modern AI systems, leveraging both algorithmic and architectural innovations to enhance performance. Beyond my academic pursuits, I am passionate about exploring innovative solutions that bridge the gap between theoretical advancements and practical implementations in AI acceleration and high-performance computing.
 
@@ -30,11 +30,11 @@ Prior to my doctoral studies, I earned my Bachelor's degree in Electronic Scienc
 
 
 ## Publications
-- **Fangzhou Ye**, Shilin Tian, Amir Ghazizadeh Ahsaei, Hao Zheng. “TensorPrism: Rethinking Sparse High-order Tensor Acceleration via Co-occurrence Graph", in *Proceedings of the 53rd International Symposium on Computer Architecture (ISCA) (Top-tier Conference)*, Raleigh, USA, June 27– July 1, 2026. 
-- Shilin Tian, **Fangzhou Ye**, Amir Ghazizadeh Ahsaei, Wei Zhang, Hao Zheng, “PanGaea: A Unified Memory-Efficient Accelerator for Pangenome Chaining and Alignment”, in *Proceedings of the 63rd Design Automation Conference (DAC) (Top-tier Conference)*, Long Beach, CA, July 26-29, 2026. 
-- **Fangzhou Ye**, Lingxiang Yin, and Hao Zheng, “Scaling Graph Neural Network Training via Geometric Optimization”, in *Proceedings of IEEE International Symposium on High-Performance Computer Architecture (HPCA) (Top-tier Conference)*, Sydney, Australia, January 31-February 4, 2026.
-- Amir Ghazizadeh Ahsaei, Lingxiang Yin, Shilin Tian, **Fangzhou Ye**, Fan Yao, Hao Zheng “Rethinking Tiling and Dataflow for SpMM Acceleration: A Graph Transformation Framework”, In *Proceedings of IEEE/ACM International Symposium on Microarchitecture (MICRO) (Top-tier Conference)*, Seoul, South Korea, October 18-22, 2025.
-- **Fangzhou Ye**, Lingxiang Yin, Amir Ghazizadeh Ahsaei, Hao Zheng. “EGMA: Enhancing Data Reuse and Workload Balancing in Message Passing GNN Acceleration via Gram Matrix Optimization”, In *Proceedings of the 61st Design Automation Conference (DAC) (Top-tier Conference)*, San Francisco, CA, June 23-27, 2024.
+- **Fangzhou Ye**, Shilin Tian, Amir Ghazizadeh Ahsaei, Hao Zheng. “TensorPrism: Rethinking Sparse High-order Tensor Acceleration via Co-occurrence Graph", in *Proceedings of the 53rd International Symposium on Computer Architecture (ISCA) <strong><span style="color:green">(Top-tier Conference)</span></strong>*, Raleigh, USA, June 27– July 1, 2026. 
+- Shilin Tian, **Fangzhou Ye**, Amir Ghazizadeh Ahsaei, Wei Zhang, Hao Zheng, “PanGaea: A Unified Memory-Efficient Accelerator for Pangenome Chaining and Alignment”, in *Proceedings of the 63rd Design Automation Conference (DAC) <strong><span style="color:green">(Top-tier Conference)</span></strong>*, Long Beach, CA, July 26-29, 2026. 
+- **Fangzhou Ye**, Lingxiang Yin, and Hao Zheng, “Scaling Graph Neural Network Training via Geometric Optimization”, in *Proceedings of IEEE International Symposium on High-Performance Computer Architecture (HPCA) <strong><span style="color:green">(Top-tier Conference)</span></strong>*, Sydney, Australia, January 31-February 4, 2026.
+- Amir Ghazizadeh Ahsaei, Lingxiang Yin, Shilin Tian, **Fangzhou Ye**, Fan Yao, Hao Zheng “Rethinking Tiling and Dataflow for SpMM Acceleration: A Graph Transformation Framework”, In *Proceedings of IEEE/ACM International Symposium on Microarchitecture (MICRO) <strong><span style="color:green">(Top-tier Conference)</span></strong>*, Seoul, South Korea, October 18-22, 2025.
+- **Fangzhou Ye**, Lingxiang Yin, Amir Ghazizadeh Ahsaei, Hao Zheng. “EGMA: Enhancing Data Reuse and Workload Balancing in Message Passing GNN Acceleration via Gram Matrix Optimization”, In *Proceedings of the 61st Design Automation Conference (DAC) <strong><span style="color:green">(Top-tier Conference)</span></strong>*, San Francisco, CA, June 23-27, 2024.
 
 
 
@@ -45,7 +45,8 @@ Prior to my doctoral studies, I earned my Bachelor's degree in Electronic Scienc
 - Feature Faculty Laureates (FFLs) Program Awards for Doctoral Students, UCF, 2024-2026
 - Micro Student Travel Grant, MICRO, 2025
 - ORCGS Doctoral Fellowship, UCF, 2023-2024
+- DAC Young Fellows, DAC, 2024
 
 ## Service
 - Conference Reviewer, *DAC 2024*, *IPDPS 2024*, *ICCAD 2024*, *ISPASS 2025*, *DAC 2025*, *MLSys 2026*, *DAC 2026*, *ICS 2026*, *ISPASS 2026*
-- Journal Reviewer, *IEEE Transactions on Sustainable Computing (TSUSC)*; *IEEE Transactions on Computers (TC)*; *Future Generation Computer Systems*; *IEEE Transactions on Circuits and Systems I (TCAS-I)*
+- Journal Reviewer, *IEEE Transactions on Sustainable Computing (TSUSC)*; *IEEE Transactions on Computers (TC)*; *Future Generation Computer Systems*; *IEEE Transactions on Circuits and Systems I (TCAS-I)*; *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*
