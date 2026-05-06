@@ -42,6 +42,7 @@ Prior to my doctoral studies, I earned my Bachelor's degree in Electronic Scienc
 - Shi Binpu, **Ye Fangzhou**, Liu Shengli, Chen Haoyang, Yu Guanding, "A distributed communication and method", China National Intellectual Property Administration (CNIPA), 2022.
 
 ## Honors and Awards
+-	Outstanding Graduate Researcher Award, UCF, 2026
 - Feature Faculty Laureates (FFLs) Program Awards for Doctoral Students, UCF, 2024-2026
 - Micro Student Travel Grant, MICRO, 2025
 - ORCGS Doctoral Fellowship, UCF, 2023-2024
