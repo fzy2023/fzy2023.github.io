@@ -46,12 +46,12 @@ Prior to my doctoral studies, I earned my Bachelor's degree in Electronic Scienc
 
 ## Honors and Awards
 -	Outstanding Graduate Researcher Award, UCF, 2026.
-- Feature Faculty Laureates (FFLs) Program Awards for Doctoral Students, UCF, 2024-2026.
+- Future Faculty Laureates (FFLs) Program Awards for Doctoral Students, UCF, 2024-2026.
 - ISCA Student Travel Grant, ISCA, 2026.
 - Micro Student Travel Grant, MICRO, 2025.
 - ORCGS Doctoral Fellowship, UCF, 2023-2024.
 - DAC Young Fellows, DAC, 2024.
 
 ## Service
-- Conference Reviewer, *DAC 2024*, *IPDPS 2024*, *ICCAD 2024*, *ISPASS 2025*, *DAC 2025*, *MLSys 2026*, *DAC 2026*, *ICS 2026*, *ISPASS 2026*
-- Journal Reviewer, *IEEE Transactions on Sustainable Computing (TSUSC)*; *IEEE Transactions on Computers (TC)*; *Future Generation Computer Systems*; *IEEE Transactions on Circuits and Systems I (TCAS-I)*; *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*
+- Conference Reviewer: *DAC 24-26*, *IPDPS 24*, *ICCAD 24-26*, *ISPASS 25-26*, *MLSys 2026*, *ICS 2026*.
+- Journal Reviewer: *IEEE Transactions on Sustainable Computing (TSUSC)*; *IEEE Transactions on Computers (TC)*; *Future Generation Computer Systems*; *IEEE Transactions on Circuits and Systems I (TCAS-I)*; *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*; *Computing in Springer Nature*.
