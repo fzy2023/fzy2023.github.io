@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Fangzhou Ye**. I am currently a third-year PhD student in the Department of Electrical and Computer Engineering at the **University of Central Florida**, working under the supervision of **[Dr. Hao Zheng](http://haozheng.us/)**.
+My name is **Fangzhou Ye**. I am currently a fourth-year PhD Candidate in the Department of Electrical and Computer Engineering at the **University of Central Florida**, working under the supervision of **[Dr. Hao Zheng](http://haozheng.us/)**. Prior to my doctoral studies, I earned my Bachelor’s degree in Electronic Science and Technology from **Zhejiang University** in Hangzhou, China.
 
-My current research interests include Computer Architecture, Machine Learning, hardware/software co-design for AI/ML, and efficient AI. Specifically, I am interested in optimizing computation and memory efficiency in modern AI systems, leveraging both algorithmic and architectural innovations to enhance performance. I am also interested in sparsity acceleration, especially for irregular/unstructured sparsity. I extend my recent research to the intersection between LLMs and sparsity.
+My research interests lie at the intersection of **Computer Architecture, Machine Learning, and hardware/software co-design for efficient AI**. I focus on improving the computational and memory efficiency of modern AI systems through innovations across algorithms, architectures, and system designs. In particular, my work explores **sparsity acceleration**, with an emphasis on irregular and unstructured sparsity. Moving forward, I aim to further investigate the intersection of **large language models (LLMs), retrieval systems, and sparsity**, with a focus on developing efficient architectures and systems for emerging AI workloads. 
 
-Prior to my doctoral studies, I earned my Bachelor's degree in Electronic Science and Technology from Zhejiang University in Hangzhou, China.
+
 
 ## Education
 - **08/2023 – Now**: Ph.D. in Computer Engineering, Intelligent Computer Architecture and Technology Laboratory (iCAT), University of Central Florida, Orlando, Florida, USA.  
