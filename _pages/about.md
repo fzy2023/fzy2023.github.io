@@ -30,17 +30,18 @@ My research interests lie at the intersection of **Computer Architecture, Machin
 - **Fangzhou Ye**, Wei Zhang, Ahmed Louri, Hao Zheng. “MOSAIC: An Accelerator Design for Heterophilic Graph Learning”, in *Proceedings of IEEE/ACM International Symposium on Microarchitecture (MICRO)<strong><span style="color:green">(Top-tier Conference)</span></strong>*, Athens, Greece, October 31 – November 4, 2026.
 - **Fangzhou Ye**, Amir Ghazizadeh Ahsaei, Hao Zheng. “Argus: An Efficient Accelerator Design for Sparse Nonlinear Solver”, in *Proceedings of IEEE/ACM International Symposium on Microarchitecture (MICRO)<strong><span style="color:green">(Top-tier Conference)</span></strong>*, Athens, Greece, October 31 – November 4, 2026.
 - **Fangzhou Ye**, Shilin Tian, Amir Ghazizadeh Ahsaei, Hao Zheng. “TensorPrism: Rethinking Sparse High-order Tensor Acceleration via Co-occurrence Graph", in *Proceedings of the 53rd International Symposium on Computer Architecture (ISCA) <strong><span style="color:green">(Top-tier Conference)</span></strong>*, Raleigh, USA, June 27– July 1, 2026. 
-- Shilin Tian, **Fangzhou Ye**, Amir Ghazizadeh Ahsaei, Wei Zhang, Hao Zheng, “PanGaea: A Unified Memory-Efficient Accelerator for Pangenome Chaining and Alignment”, in *Proceedings of the 63rd Design Automation Conference (DAC) <strong><span style="color:green">(Top-tier Conference)</span></strong>*, Long Beach, CA, July 26-29, 2026. 
-- **Fangzhou Ye**, Lingxiang Yin, and Hao Zheng, “Scaling Graph Neural Network Training via Geometric Optimization”, in *Proceedings of IEEE International Symposium on High-Performance Computer Architecture (HPCA) <strong><span style="color:green">(Top-tier Conference)</span></strong>*, Sydney, Australia, January 31-February 4, 2026.
-- Amir Ghazizadeh Ahsaei, Lingxiang Yin, Shilin Tian, **Fangzhou Ye**, Fan Yao, Hao Zheng “Rethinking Tiling and Dataflow for SpMM Acceleration: A Graph Transformation Framework”, In *Proceedings of IEEE/ACM International Symposium on Microarchitecture (MICRO) <strong><span style="color:green">(Top-tier Conference)</span></strong>*, Seoul, South Korea, October 18-22, 2025.
+- Shilin Tian, **Fangzhou Ye**, Amir Ghazizadeh Ahsaei, Wei Zhang, Hao Zheng. “PanGaea: A Unified Memory-Efficient Accelerator for Pangenome Chaining and Alignment”, in *Proceedings of the 63rd Design Automation Conference (DAC) <strong><span style="color:green">(Top-tier Conference)</span></strong>*, Long Beach, CA, July 26-29, 2026. 
+- **Fangzhou Ye**, Lingxiang Yin, and Hao Zheng. “Scaling Graph Neural Network Training via Geometric Optimization”, in *Proceedings of IEEE International Symposium on High-Performance Computer Architecture (HPCA) <strong><span style="color:green">(Top-tier Conference)</span></strong>*, Sydney, Australia, January 31-February 4, 2026.
+- Amir Ghazizadeh Ahsaei, Lingxiang Yin, Shilin Tian, **Fangzhou Ye**, Fan Yao, Hao Zheng. “Rethinking Tiling and Dataflow for SpMM Acceleration: A Graph Transformation Framework”, In *Proceedings of IEEE/ACM International Symposium on Microarchitecture (MICRO) <strong><span style="color:green">(Top-tier Conference)</span></strong>*, Seoul, South Korea, October 18-22, 2025.
 - **Fangzhou Ye**, Lingxiang Yin, Amir Ghazizadeh Ahsaei, Hao Zheng. “EGMA: Enhancing Data Reuse and Workload Balancing in Message Passing GNN Acceleration via Gram Matrix Optimization”, In *Proceedings of the 61st Design Automation Conference (DAC) <strong><span style="color:green">(Top-tier Conference)</span></strong>*, San Francisco, CA, June 23-27, 2024.
 
 ## Patents
-- Shi Binpu, **Ye Fangzhou**, Liu Shengli, Chen Haoyang, Yu Guanding, "A distributed communication and method", China National Intellectual Property Administration (CNIPA), 2022.
+- Shi Binpu, **Ye Fangzhou**, Liu Shengli, Chen Haoyang, Yu Guanding, "A distributed communication and method", granted by the China National Intellectual Property Administration (CNIPA), 2023. Patent No. CN115150288B.
 
 ## Honors and Awards
 - Outstanding Graduate Researcher Award, UCF, 2026.
 - Future Faculty Laureates (FFLs) Program Awards for Doctoral Students, UCF, 2024-2026.
+- Micro Student Travel Grant, MICRO, 2026.
 - ISCA Student Travel Grant, ISCA, 2026.
 - Best Reviewer Certificate, TSUSC, 2025.
 - Micro Student Travel Grant, MICRO, 2025.
@@ -49,7 +50,7 @@ My research interests lie at the intersection of **Computer Architecture, Machin
 
 ## Service
 ### Conference Reviewer:
-- *DAC 24-26*, *IPDPS 24*, *ICCAD 24-26*, *ISPASS 25-26*, *MLSys 2026*, *ICS 2026*.
+- *DAC 24-26*, *IPDPS 24*, *ICCAD 24-26*, *ISPASS 25-26*, *MLSys 2026*, *ICS 2026*, *HPCA 2027*.
 
 ### Journal Reviewer:
 - *IEEE Transactions on Sustainable Computing (TSUSC)*; *IEEE Transactions on Computers (TC)*; *Future Generation Computer Systems*; *IEEE Transactions on Circuits and Systems I (TCAS-I)*; *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*; *Computing in Springer Nature*.
