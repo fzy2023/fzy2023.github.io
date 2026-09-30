@@ -25,7 +25,7 @@ My research interests lie at the intersection of **Computer Architecture, Machin
 - **08/2024 – 12/2024**: EEL 3552 Signal Analysis & Analog Communication, University of Central Florida
 
 ## Publications
-<small>(top-tier conference) is one of the top CS conferences listed on <a href="https://csrankings.org">csrankings.org</a></small> and is also listed as a **CCF-A** by the China Computer Federation (CCF).
+<small>(top-tier conference) is one of the top CS conferences listed on <a href="https://csrankings.org">csrankings.org</a> and is also listed as a **CCF-A** by the China Computer Federation (CCF).</small>
 
 - **Fangzhou Ye**, Wei Zhang, Ahmed Louri, Hao Zheng. “MOSAIC: An Accelerator Design for Heterophilic Graph Learning”, in *Proceedings of IEEE/ACM International Symposium on Microarchitecture (MICRO)<strong><span style="color:green">(Top-tier Conference)</span></strong>*, Athens, Greece, October 31 – November 4, 2026.
 - **Fangzhou Ye**, Amir Ghazizadeh Ahsaei, Hao Zheng. “Argus: An Efficient Accelerator Design for Sparse Nonlinear Solver”, in *Proceedings of IEEE/ACM International Symposium on Microarchitecture (MICRO)<strong><span style="color:green">(Top-tier Conference)</span></strong>*, Athens, Greece, October 31 – November 4, 2026.
